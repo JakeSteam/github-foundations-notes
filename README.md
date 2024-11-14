@@ -6,5 +6,6 @@ This is [free for students](https://github.com/orgs/community/discussions/138834
 
 ## Notes on notes
 
-1. I typically only note things that I suspect I'll forget, or that don't make sense immediately. As such, my notes are only a small subset of the course's full content.
-2. Each file is a "module" in the collection.
+1. I typically only note things that aren't immediately clear / obvious, or that I might forget. The training has a lot more information.
+2. I've been a software engineer for 10 years, so I won't have many notes on the basics of raising PRs / issues (hopefully!).
+3. Each file is a "module" in the collection.
