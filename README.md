@@ -1,8 +1,10 @@
-# GitHub Foundation Certification notes
+![](/github-certification-banner.png)
 
-Miscellaneous notes made during study for the [GitHub Foundations Certification](https://education.github.com/experiences/foundations_certificate).
+# GitHub Foundations Certification notes
 
-This is [free for students](https://github.com/orgs/community/discussions/138834), and there [is a study guide available](https://learn.microsoft.com/en-us/collections/o1njfe825p602p).
+Miscellaneous notes made during study for the [GitHub Foundations Certification](https://education.github.com/experiences/foundations_certificate). This is [free for students](https://github.com/orgs/community/discussions/138834), and there [is a Microsoft study guide available](https://learn.microsoft.com/en-us/collections/o1njfe825p602p).
+
+A full review is available: https://blog.jakelee.co.uk/review-of-github-foundations-certification/
 
 ## Notes on notes
 
